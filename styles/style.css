@@ -1,0 +1,17 @@
+.panda-bg-color {
+    background-color: #FCEAE8;
+}
+.panda-btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: 0;
+    color: white;
+    padding: 9px 25px;
+    border-radius: 8px;
+}
+.panda-slide {
+    margin-top: 100px;
+}
+.subscribe-bg {
+    background: #FFF2F1;
+    height: 300px;
+}
